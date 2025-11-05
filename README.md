@@ -28,6 +28,15 @@ The goal of this project is to:
 ## Dynamically uploading the files using fastAPI's UploadFile method
 <img width="1590" height="1562" alt="image" src="https://github.com/user-attachments/assets/d2d979e7-3ff0-47eb-937b-e3de235a08dc" />
 
+##  Upload the file in POST method
+<img width="1754" height="1002" alt="image" src="https://github.com/user-attachments/assets/5ffca79f-1ddc-426d-af47-b1b131081b8f" />
+
+##  Select parameters 
+<img width="2002" height="896" alt="image" src="https://github.com/user-attachments/assets/f423379d-84f0-4d39-aa0a-b37b7a89d9db" />
+
+##  GET Response 
+<img width="1776" height="922" alt="image" src="https://github.com/user-attachments/assets/bfb7161b-e14c-4722-a6fe-7961dad41670" />
+
 ## Future Enhancements 
 - Add semantic search using OpenAI embeddings or FAISS
 - Integrate Salesforce API for live CRM data search
