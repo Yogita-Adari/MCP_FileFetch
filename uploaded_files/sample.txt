@@ -1,0 +1,5 @@
+Ressl AI builds intelligent systems for enterprise workflow automation.
+The MCP server handles data requests and responds to keyword searches.
+Our AI platform integrates with Salesforce and other CRM tools.
+Ressl agents continuously learn from user behavior to improve recommendations.
+Developers can use APIs to extend Ressl AI capabilities.
