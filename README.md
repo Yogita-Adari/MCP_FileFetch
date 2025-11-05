@@ -25,8 +25,10 @@ The goal of this project is to:
 ## Output 
 <img width="1334" height="766" alt="image" src="https://github.com/user-attachments/assets/814e932b-43e2-43e7-9b5a-766e5c16da4d" />
 
+## Dynamically uploading the files using fastAPI's UploadFile method
+<img width="1590" height="1562" alt="image" src="https://github.com/user-attachments/assets/d2d979e7-3ff0-47eb-937b-e3de235a08dc" />
+
 ## Future Enhancements 
-- Upload the file dynamically
 - Add semantic search using OpenAI embeddings or FAISS
 - Integrate Salesforce API for live CRM data search
 - Build a frontend UI or MCP Inspector for easier querying
